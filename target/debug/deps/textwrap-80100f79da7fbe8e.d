@@ -1,0 +1,11 @@
+/home/archisman/Desktop/ruststuff/rust-ex/rust-ex/target/debug/deps/textwrap-80100f79da7fbe8e.rmeta: /home/archisman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/textwrap-0.13.4/src/lib.rs /home/archisman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/textwrap-0.13.4/src/indentation.rs /home/archisman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/textwrap-0.13.4/src/splitting.rs /home/archisman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/textwrap-0.13.4/src/core.rs /home/archisman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/textwrap-0.13.4/src/core/optimal_fit.rs
+
+/home/archisman/Desktop/ruststuff/rust-ex/rust-ex/target/debug/deps/libtextwrap-80100f79da7fbe8e.rlib: /home/archisman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/textwrap-0.13.4/src/lib.rs /home/archisman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/textwrap-0.13.4/src/indentation.rs /home/archisman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/textwrap-0.13.4/src/splitting.rs /home/archisman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/textwrap-0.13.4/src/core.rs /home/archisman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/textwrap-0.13.4/src/core/optimal_fit.rs
+
+/home/archisman/Desktop/ruststuff/rust-ex/rust-ex/target/debug/deps/textwrap-80100f79da7fbe8e.d: /home/archisman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/textwrap-0.13.4/src/lib.rs /home/archisman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/textwrap-0.13.4/src/indentation.rs /home/archisman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/textwrap-0.13.4/src/splitting.rs /home/archisman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/textwrap-0.13.4/src/core.rs /home/archisman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/textwrap-0.13.4/src/core/optimal_fit.rs
+
+/home/archisman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/textwrap-0.13.4/src/lib.rs:
+/home/archisman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/textwrap-0.13.4/src/indentation.rs:
+/home/archisman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/textwrap-0.13.4/src/splitting.rs:
+/home/archisman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/textwrap-0.13.4/src/core.rs:
+/home/archisman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/textwrap-0.13.4/src/core/optimal_fit.rs:
